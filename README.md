@@ -1,3 +1,4 @@
+
 \# Web Music Player 🎧
 
 
@@ -35,4 +36,7 @@ A responsive web-based music player built using HTML, CSS, and JavaScript.
 Completed as part of Web Development Internship at Hex Softwares.
 
 
+
+
+# Music-player
 
