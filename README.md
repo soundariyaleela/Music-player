@@ -26,8 +26,24 @@ This project allows users to play, pause, and navigate through a playlist of aud
 👉 https://soundariyaleela.github.io/Music-player/
 
 ---
-
 ## 📁 Project Structure
+
+```text
+Music-player/
+│
+├── index.html
+├── styles.css
+├── app.js
+│
+├── songs/
+│   ├── Ezhu-Vetri-Isai.mp3
+│   ├── Kanavil-Nee.mp3
+│   ├── Fight-Back-BGM.mp3
+│   └── ...
+│
+├── README.md
+└── .gitattributes
+
 # Music-player
 
 
