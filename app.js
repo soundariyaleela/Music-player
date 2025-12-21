@@ -35,7 +35,6 @@ let isRepeat = false;
 const songs = [ 
    { title: "Vetriyin Paadhai", artist: "Motivation BGM 🎯", src: "./songs/Vetriyin-Paadhai.mp3", duration: "3:45", cover: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
    { title: "Kanavil Nee", artist: "Melody 💭", src: "./songs/Kanavil-Nee.mp3", duration: "4:12", cover: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
-   { title: "Ezhu Vetri Isai", artist: "Inspiration 🏆", src: "./songs/Ezhu-Vetri-Isai.mp3", duration: "3:28", cover: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" },
    { title: "Vidiyal Thodangum", artist: "Hope Theme 🌅", src: "./songs/Vidiyal-Thodangum.mp3", duration: "4:05", cover: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
    { title: "Nambikkai Oli", artist: "Positive Vibes ✨", src: "./songs/Nambikkai-Oli.mp3", duration: "3:15", cover: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
    { title: "Midnight Memories", artist: "Chill 🌙", src: "./songs/Midnight-Memories.mp3", duration: "3:50", cover: "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
@@ -45,7 +44,6 @@ const songs = [
    { title: "Past Year Memories", artist: "Emotional Piano 🎹", src: "./songs/Past-Year-Memories.mp3", duration: "3:10", cover: "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
    { title: "Fight Back", artist: "Epic ⚔️", src: "./songs/Fight-Back-BGM.mp3", duration: "3:00", cover: "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
    { title: "Never Give Up", artist: "Heroic 🦸", src: "./songs/Never-Give-Up.mp3", duration: "2:55", cover: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
-   { title: "Peaceful Escape", artist: "Calm 🌿", src: "./songs/Peaceful-Escape.mp3", duration: "4:15", cover: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
    { title: "Urban Flow", artist: "Beats 🏙️", src: "./songs/Urban-Flow.mp3", duration: "3:45", cover: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" }, 
    { title: "Late Night Coffee", artist: "Lo-fi ☕", src: "./songs/Late-Night-Coffee.mp3", duration: "3:30", cover: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" } 
   ];
